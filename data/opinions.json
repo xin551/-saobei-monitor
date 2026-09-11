@@ -1,8 +1,24 @@
 {
   "monitoring": {
     "start_at": "2026-09-03T15:57:00+08:00",
-    "last_updated": "2026-09-09T09:06:57+08:00",
+    "last_updated": "2026-09-11T09:25:35+08:00",
     "scope_note": "仅统计 2026-09-03 15:57（北京时间）之后新发布、新出现或发生实质更新的负面、争议及潜在风险信息。覆盖公开可检索的网页、投诉平台、Apple App Store、主流安卓应用市场，以及微博、抖音、小红书、知乎、B站、贴吧等公开内容；受登录、反爬、动态加载和搜索索引限制的平台可能存在监测盲区。"
   },
-  "items": []
+  "items": [
+    {
+      "id": "campus-appstore-20260909-force-use",
+      "cat": "campus",
+      "title": "用户称扫呗校园通存在强迫使用、功能体验差问题",
+      "summary": "App Store 用户公开评价称应用存在“强迫使用，功能还特别差劲”等问题。",
+      "url": "https://apps.apple.com/cn/app/%E6%89%AB%E5%91%97%E6%A0%A1%E5%9B%AD%E9%80%9A/id6749852236",
+      "source": "Apple App Store",
+      "platform": "App Store",
+      "published_at": "2026-09-09T00:00:00+08:00",
+      "discovered_at": "2026-09-11T09:25:35+08:00",
+      "keywords": ["扫呗校园通", "强迫使用", "功能差"],
+      "risk": "mid",
+      "engagement": null,
+      "assessment": "涉及校园支付场景中的使用自主性与产品体验，敏感度高于一般功能建议；需关注同类反馈是否持续出现并形成聚集。"
+    }
+  ]
 }
